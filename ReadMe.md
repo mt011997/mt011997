@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🧑‍💻Olá, me chamo Matheus e tenho 25 anos.<br>🔭 Estudante Kenzie Academy Brasil.<br>🌱 Sempre em busca de aprender mais!
+🧑‍💻Olá, me chamo Matheus e tenho 25 anos.<br>🌱 Comecei na programação em junho de 2022 e estou sempre em busca de aprender mais!
 
 ## 🌐 Socials:
 
