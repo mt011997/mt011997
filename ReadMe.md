@@ -20,6 +20,4 @@
 
 [![](https://visitcount.itsvg.in/api?id=mt011997&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Snake animation](https://github.com/mt011997/mt011997/blob/output/github-contribution-grid-snake.svg)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
