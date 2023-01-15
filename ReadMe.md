@@ -1,6 +1,7 @@
 # 💫 About Me:
 🧑‍💻Olá, me chamo Matheus e tenho 25 anos.<br>🌱 Comecei na programação em junho de 2022 e estou sempre em busca de aprender mais!
 
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mt011997&theme=react&line_height=40&hide=css"/> </a>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mt01_matheus/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/matheusoliveira1997/) 
