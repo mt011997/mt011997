@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻Olá, me chamo Matheus e tenho 25 anos.<br>🌱 Sempre fui fascinado por tecnologia e estou sempre em busca de aprender mais!<br>Desenvolvedor Front-End, atualmente estudante (FullStack) da Kenzie Academy Brasil e cursando faculdade de Ciências da computação
+🧑‍💻Olá, me chamo Matheus e tenho 25 anos.<br>🌱 Sempre fui fascinado por tecnologia e estou sempre em busca de aprender mais!<br>Desenvolvedor FullStack e cursando faculdade de Ciências da computação
 
 
 ## 🌐 Socials:
