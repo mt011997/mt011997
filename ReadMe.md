@@ -2,7 +2,7 @@
 🧑‍💻Olá, me chamo Matheus e tenho 25 anos.<br>🌱 Sempre fui fascinado por tecnologia e estou sempre em busca de aprender mais!<br>Desenvolvedor FullStack e cursando faculdade de Ciências da computação
 
 
-## 🌐 Socials
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/matheusoliveira1997/) 
 
 # 💻 Tech Stack:
