@@ -2,18 +2,18 @@
 🧑‍💻Olá, me chamo Matheus e tenho 25 anos.<br>🌱 Sempre fui fascinado por tecnologia e estou sempre em busca de aprender mais!<br>Desenvolvedor FullStack e cursando faculdade de Ciências da computação
 Contatos:
 
-Email: matheus.oliveira199768@gmail.com
-Portifólio: https://portfolio-matheus-oliveira.vercel.app/
-Github: https://github.com/mt011997
+Email: matheus.oliveira199768@gmail.com<br>
+Portifólio: https://portfolio-matheus-oliveira.vercel.app/<br>
+Github: https://github.com/mt011997<br>
 
 Atuei na área de investimentos por 5 anos por conta própria, mas depois desses 5 anos resolvi dar uma mudada e estudar coisas novas, e uma matéria da minha faculdade me fez despertar o interesse pela programação, foi quando resolvi mudar de área e começar a estudar e me dedicar a aprender programação, sempre gostei de aprender coisas novas e quando eu sinto gosto por algo eu vou a fundo querendo aprender. E agora estou querendo novas oportunidades, para poder ajudar a resolver problemas a partir do meu conhecimento. 
 
-Habilidades
-Front-End:
+Habilidades<br>
+Front-End:<br>
 HTML, CSS3, Web Semântica, JavaScript (ES6), TypeScript, Controle de versão com git, Programação Orientada a Objetos, Programação Funcional, Programação assíncrona, Scrum, JIRA, Trello, GitHub, React, Consumo de APIs, Componentização, uso de bibliotecas e componentes, PHP, Vue.js, Next.js
 
-BackEnd:
- NodeJs, Express, Banco de dados SQL, PostgreSQL, Construção de API’s, RESTful, TypeORM, Migrations, Python, Django, Django rest framework, Nest.js, Laravel.
+BackEnd:<br>
+ NodeJs, Express, Banco de dados SQL, PostgreSQL, Construção de API’s, RESTful, TypeORM, Python, Django, Django rest framework, Nest.js.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/matheusoliveira1997/) 
