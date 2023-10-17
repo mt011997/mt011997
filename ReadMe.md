@@ -9,7 +9,9 @@ Github: https://github.com/mt011997<br>
 Atuei na área de investimentos por 5 anos por conta própria, mas depois desses 5 anos resolvi dar uma mudada e estudar coisas novas, e uma matéria da minha faculdade me fez despertar o interesse pela programação, foi quando resolvi mudar de área e começar a estudar e me dedicar a aprender programação, sempre gostei de aprender coisas novas e quando eu sinto gosto por algo eu vou a fundo querendo aprender. E agora estou querendo novas oportunidades, para poder ajudar a resolver problemas a partir do meu conhecimento. 
 
 Habilidades<br>
+<br>
 Front-End:<br>
+<br>
 HTML, CSS3, Web Semântica, JavaScript (ES6), TypeScript, Controle de versão com git, Programação Orientada a Objetos, Programação Funcional, Programação assíncrona, Scrum, JIRA, Trello, GitHub, React, Consumo de APIs, Componentização, uso de bibliotecas e componentes, PHP, Vue.js, Next.js
 
 BackEnd:<br>
