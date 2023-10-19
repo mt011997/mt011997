@@ -11,7 +11,7 @@ Habilidades<br>
 <br>
 Front-End:<br>
 <br>
-HTML, CSS3, Web Semântica, JavaScript (ES6), TypeScript, Controle de versão com git, Programação Orientada a Objetos, Programação Funcional, Programação assíncrona, Scrum, JIRA, Trello, GitHub, React, Consumo de APIs, Componentização, uso de bibliotecas e componentes, PHP, Vue.js, Next.js
+HTML, CSS3, Web Semântica, JavaScript (ES6), TypeScript, Controle de versão com git, Programação Orientada a Objetos, Programação Funcional, Programação assíncrona, Scrum, JIRA, Trello, GitHub, React, Consumo de APIs, Componentização, uso de bibliotecas e componentes, Next.js
 
 BackEnd:<br>
  NodeJs, Express, Banco de dados SQL, PostgreSQL, Construção de API’s, RESTful, TypeORM, Python, Django, Django rest framework, Nest.js.
