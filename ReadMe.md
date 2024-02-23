@@ -6,15 +6,6 @@ Email: matheus.oliveira199768@gmail.com<br>
 
 Trabalhei com investimentos por 5 anos, mas sempre gostei mesmo de tecnologia. Comecei minha faculdade de Ciências da computação e fiz um curso técnico de desenvolvedor Full Stack, logo em seguida consegui minha primeira experiência na área, atuando como freelancer. 
 
-Habilidades<br>
-<br>
-Front-End:<br>
-<br>
-HTML, CSS3, Web Semântica, JavaScript (ES6), TypeScript, Controle de versão com git, Programação Orientada a Objetos, Programação Funcional, Programação assíncrona, Scrum, JIRA, Trello, GitHub, React, Consumo de APIs, Componentização, uso de bibliotecas e componentes, Next.js
-
-BackEnd:<br>
- NodeJs, Express, Banco de dados SQL, PostgreSQL, Construção de API’s, RESTful, TypeORM, Python, Django, Django rest framework, Nest.js.
-
 ## 🌐 Socials:
 [Portfolio](https://portfolio-matheus-oliveira.vercel.app/)</br></br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/matheusoliveira1997/) 
