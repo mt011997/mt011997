@@ -1,5 +1,11 @@
 # 💫 About Me:
-🧑‍💻Olá, me chamo Matheus.<br>🌱 Sempre fui fascinado por tecnologia e estou sempre em busca de aprender mais!<br>Desenvolvedor FullStack e cursando faculdade de Ciências da computação Contatos:<br><br>Email: matheus.oliveira199768@gmail.com<br><br>Trabalhei com investimentos por 5 anos, mas sempre gostei mesmo de tecnologia. Comecei minha faculdade de Ciências da computação e fiz um curso técnico de desenvolvedor Full Stack, logo em seguida consegui minha primeira experiência na área, atuando como freelancer.
+🧑‍💻 Olá, sou Matheus!
+
+🌱 Apaixonado por tecnologia, estou sempre em busca de novos conhecimentos e desafios. Sou Desenvolvedor Full Stack e sou formado em Ciências da Computação.
+
+Antes de entrar na área de tecnologia, trabalhei por 5 anos com investimentos, mas minha verdadeira paixão sempre foi o desenvolvimento. Após iniciar minha graduação, concluí um curso técnico de Desenvolvimento Full Stack e logo consegui minha primeira experiência profissional como freelancer.
+
+Desde abril de 2024, estou atuando como Desenvolvedor Full Stack na Carmem Seguros, onde venho contribuindo com projetos inovadores e aprimorando minhas habilidades.
 
 
 ## 🌐 Socials:
