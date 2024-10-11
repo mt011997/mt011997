@@ -67,10 +67,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/mt011997/mt011997/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/mt011997/count.svg?"  />
 </div>
